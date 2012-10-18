@@ -46,7 +46,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.bbop</groupId>
-			<artifactId>OWLTools-Annotation</artifactId>
+			<artifactId>OWLTools-Core</artifactId>
 			<version>0.2.1-SNAPSHOT</version>
 			<exclusions>
 				<exclusion>
