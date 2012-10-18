@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
 import org.apache.log4j.Logger;
-import org.bbop.obo.GraphViewCanvas;
+import org.geneontology.obo.GraphViewCanvas;
 import org.protege.editor.owl.model.OWLModelManager;
 import org.protege.editor.owl.model.OWLWorkspace;
 import org.protege.editor.owl.model.inference.OWLReasonerManager;

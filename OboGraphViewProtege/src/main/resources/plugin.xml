@@ -5,7 +5,7 @@
    <extension id="OboGraphView"
               point="org.protege.editor.core.application.ViewComponent">
       <label value="OBO Graph View Component"/>
-      <class value="org.bbop.graph.view.OboGraphView"/>
+      <class value="org.geneontology.view.OboGraphView"/>
       <category value="@org.protege.ontologycategory"/>
    </extension>
    
