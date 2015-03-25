@@ -12,7 +12,7 @@ The plugin is tested and developed with Protégé Version 4.1 and 4.2 (beta).
 For more help on Protégé see [Protégé Documentation](http://protegewiki.stanford.edu/wiki/Protege4UserDocs)
 
 ## Installation as Protégé PlugIn ##
-Download the latest version from the [Downloads](http://code.google.com/p/obographview/downloads/list) tab.
+Download the latest version from the Releases tab.
 
 Unzip the archive file. There should be one file: **org.geneontology.view.protege.jar**
 
