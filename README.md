@@ -8,7 +8,8 @@ Furthermore, it can be used in any Java Swing application.
 
 # Protégé PlugIn #
 
-The plugin is tested and developed with Protégé Version 4.1 and 4.2 (beta).
+The plugin is tested and developed with Protégé Version 4 and 5
+
 For more help on Protégé see [Protégé Documentation](http://protegewiki.stanford.edu/wiki/Protege4UserDocs)
 
 ## Installation as Protégé PlugIn ##
@@ -32,6 +33,10 @@ To start the rendering, click on the **Synchronize View** button.
 The plugin requires a reasoner and will warn you, if there is no up-to-date reasoner instance available.
 
 Selections in the Class hierarchy are reflected in the visualization. A selection will update the rendered nodes.
+
+You can also navigate within the graph view: however it is not
+possible to select items in the graph view and have them be reflected
+in the rest of Protege
 
 ## Screenshot
 
