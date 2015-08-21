@@ -32,3 +32,7 @@ To start the rendering, click on the **Synchronize View** button.
 The plugin requires a reasoner and will warn you, if there is no up-to-date reasoner instance available.
 
 Selections in the Class hierarchy are reflected in the visualization. A selection will update the rendered nodes.
+
+## Screenshot
+
+![screenshot](https://raw.github.com/owlcollab/obographview/master/docs/screenshot.png)
